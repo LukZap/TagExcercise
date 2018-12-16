@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTag", "UserTag\UserTag.csproj", "{D042FB6C-DBD8-41A0-8EC6-0D18F2353DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTag.Test", "UserTag.Test\UserTag.Test.csproj", "{8DB8CD5F-44CE-4F02-A601-D2EC36525BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D042FB6C-DBD8-41A0-8EC6-0D18F2353DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D042FB6C-DBD8-41A0-8EC6-0D18F2353DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D042FB6C-DBD8-41A0-8EC6-0D18F2353DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D042FB6C-DBD8-41A0-8EC6-0D18F2353DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB8CD5F-44CE-4F02-A601-D2EC36525BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB8CD5F-44CE-4F02-A601-D2EC36525BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB8CD5F-44CE-4F02-A601-D2EC36525BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB8CD5F-44CE-4F02-A601-D2EC36525BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C8B316-0DCA-4340-BB58-5545CDEDB5C7}
+	EndGlobalSection
+EndGlobal
